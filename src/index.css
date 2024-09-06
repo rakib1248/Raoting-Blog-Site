@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-prev:before, .slick-next:before {
+  
+  font-size: 27px  !important;
+ 
+  color: #000000 !important;
+ 
+}
+
+body {
+  background-color: #f1f1f1;
+  
+}
